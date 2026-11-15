@@ -1,0 +1,1 @@
+{"name":"TimeNote - 캘린더와 할 일","short_name":"TimeNote","description":"날짜별 할 일과 메모, 알림","start_url":"./","scope":"./","display":"standalone","background_color":"#faf7fb","theme_color":"#633e68","lang":"ko","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
